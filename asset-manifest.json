@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/fattahyaman/RoboFriend/static/css/main.9d3f00a4.chunk.css",
+    "main.js": "/fattahyaman/RoboFriend/static/js/main.2769879d.chunk.js",
+    "main.js.map": "/fattahyaman/RoboFriend/static/js/main.2769879d.chunk.js.map",
+    "runtime-main.js": "/fattahyaman/RoboFriend/static/js/runtime-main.12a73a91.js",
+    "runtime-main.js.map": "/fattahyaman/RoboFriend/static/js/runtime-main.12a73a91.js.map",
+    "static/css/2.3b6f1bda.chunk.css": "/fattahyaman/RoboFriend/static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.ced7e3ec.chunk.js": "/fattahyaman/RoboFriend/static/js/2.ced7e3ec.chunk.js",
+    "static/js/2.ced7e3ec.chunk.js.map": "/fattahyaman/RoboFriend/static/js/2.ced7e3ec.chunk.js.map",
+    "index.html": "/fattahyaman/RoboFriend/index.html",
+    "precache-manifest.f057cb3b29cc4f9a89c5e1fd2af15c8a.js": "/fattahyaman/RoboFriend/precache-manifest.f057cb3b29cc4f9a89c5e1fd2af15c8a.js",
+    "service-worker.js": "/fattahyaman/RoboFriend/service-worker.js",
+    "static/css/2.3b6f1bda.chunk.css.map": "/fattahyaman/RoboFriend/static/css/2.3b6f1bda.chunk.css.map",
+    "static/css/main.9d3f00a4.chunk.css.map": "/fattahyaman/RoboFriend/static/css/main.9d3f00a4.chunk.css.map",
+    "static/js/2.ced7e3ec.chunk.js.LICENSE.txt": "/fattahyaman/RoboFriend/static/js/2.ced7e3ec.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12a73a91.js",
+    "static/css/2.3b6f1bda.chunk.css",
+    "static/js/2.ced7e3ec.chunk.js",
+    "static/css/main.9d3f00a4.chunk.css",
+    "static/js/main.2769879d.chunk.js"
+  ]
+}
